@@ -7,4 +7,4 @@ Website: [https://phacotrainer.com/](https://phacotrainer.com/)
 
 ## Video AI Algorithms in Action
 
-![](docs/docfx/images/NormalBlend.gif)
+![](data/newfig_1.jpg)
